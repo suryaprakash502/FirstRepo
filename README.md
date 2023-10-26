@@ -23,8 +23,11 @@ Create events to bring people together for mentorship and code collaborations, s
 
 ## How to make your first pull request ?
 Fork this project by clicking on "FORK"
+
 Add any program you know :)
+
 After filling just Click on "Commit Changes"
+
 Create a Pull request that's it.
 
 ## Disclaimer : 
